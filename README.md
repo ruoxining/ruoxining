@@ -10,9 +10,5 @@
 
 📫 How to reach me: Lune_RGB@163.com
 
-⚡ Fun fact: 💡 also interested in graphic design & European philosophy
-
-            💡 "lune", the French word "moon", relates to my real name "tide"
-            
-            💡 while "RGB" stands for a wider scope of the colorful world
+⚡ Fun fact: 💡 also interested in graphic design & European philosophy<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡 "lune", the French word "moon", relates to my real name "tide"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡 while "RGB" stands for a wider scope of the colorful world
 
