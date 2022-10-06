@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🏫 I'm currently a Bachelor student in Zhejiang University, Hangzhou, China.
+🏫 I'm currently an Undergraduate student in Zhejiang University, Hangzhou, China.
 
-🌱 I’m currently learning linguistics & computer science.
+🌱 I’m currently studying linguistics & computer science.
 
 🔭 I’m currently working on building natural language datasets, natural language embedding & knowledge graph for scientific discoveries.
 
