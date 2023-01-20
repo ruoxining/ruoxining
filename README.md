@@ -16,15 +16,30 @@
 <br/>  
 
 
-## My Skill Set  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-</div>  
+
+## My Mostly Used Languages  
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuneRGB&layout=compact)](https://github.com/LuneRGB/github-readme-stats)
+
+</div>
+<br/>  
+
+ 
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LuneRGB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LuneRGB&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
 
 
 ## Connect with me  
@@ -38,16 +53,4 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LuneRGB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=LuneRGB&&style=flat-square" align="center" />
-</div>  
-
-<br />
+<br/> 
