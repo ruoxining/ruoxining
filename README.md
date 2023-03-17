@@ -4,13 +4,13 @@
 - 🏫 I'm currently an Undergraduate student in Zhejiang University, Hangzhou, China.  
   
 
-- 🌱 I’m currently studying linguistics & computer science.  
+- 🌱 I’m currently reading linguistics & computer science double-major.  
   
 
-- 🔭 I’m currently studying NLP and working especially on corpus building.  
+- 🔭 I’m currently studying NLP.  
   
 
-- 💭 I'm dreaming of the computer's better-acquiring knowledge of the world.  
+- 💭 I'm dreaming of the AI's better-acquiring world knowledge and become human's powerful tools.  
   
 
 <br/>  
