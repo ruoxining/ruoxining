@@ -111,11 +111,11 @@ Macaulay2                1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<div align="center">
+<!-- <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuneRGB&layout=compact)](https://github.com/LuneRGB/github-readme-stats)
 
-</div>  
+</div>   -->
 
 <br/>  
 
