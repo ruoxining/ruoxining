@@ -24,6 +24,7 @@
 <br/>   -->
 
 
+## My Wakatime Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%208%20mins-blue)
@@ -109,8 +110,6 @@ Macaulay2                1 repo              █░░░░░░░░░░�
  Last Updated on 10/06/2023 01:28:08 UTC
 <!--END_SECTION:waka-->
 
-
-## My Mostly Used Languages
 
 <div align="center">
 
