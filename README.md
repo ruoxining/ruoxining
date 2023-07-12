@@ -7,7 +7,7 @@
 - 🌱 I’m currently reading linguistics & computer science double-major.  
   
 
-- 🔭 I’m studying NLP and CL, currently interested/open to LLMs, HCI and Ai4Sci.
+- 🔭 I’m studying NLP and CL, currently interested/open to LLMs.
   
 
 - 💭 I'm dreaming of the AI's better-acquiring world knowledge and become human's powerful tools.  
