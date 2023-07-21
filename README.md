@@ -12,7 +12,7 @@
 
 - 💭 I'm dreaming of the AI's better-acquiring world knowledge and become human's powerful tools.  
   
-- ❗️ I'm working on my NoteSpace. Welcome to see my NoteSpace - A collection of my paper, CS, lingusitics and math notes. https://pitch-streetcar-8b4.notion.site/LuneRGB-s-Notes-41eb1dfea25b4042baacdf3c718200e3?pvs=4
+- ❗️ I'm working on my Notes. Welcome to see my NoteSpace - A collection of my paper, CS, lingusitics and math notes.<a href = "https://pitch-streetcar-8b4.notion.site/LuneRGB-s-Notes-41eb1dfea25b4042baacdf3c718200e3?pvs=4">Ruoxi Ning's Notes<>
 
 <br/>  
 
