@@ -1,17 +1,8 @@
-# **Hi there 👋**  
-  
+# **Hi there **  
 
-- 🏫 I'm currently an Undergraduate student in Zhejiang University, Hangzhou, China.  
-  
+I read a double-major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). I am currently visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
 
-- 🌱 I’m currently reading linguistics & computer science double-major.  
-  
-
-- 🔭 I’m studying NLP and CL, currently interested/open to LLMs.
-  
-
-- 💭 I'm dreaming of the AI's better-acquiring world knowledge and become human's powerful tools.  
-  
+I am continuously exploring my direction in Natural Language Processing. Generally, I wish to apply language technology to boost human productivity, to develop and improve language technologies in boosting productivity, and to solve linguistic theory and philosophy questions with artificial intelligence technology.
 
 <br/>  
 
