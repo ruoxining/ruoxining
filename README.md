@@ -1,4 +1,4 @@
-# **Hi there **  
+# Hi there
 
 I read a double-major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). I am currently visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
 
