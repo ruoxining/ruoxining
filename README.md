@@ -1,6 +1,6 @@
 # Hi there
 
-I read a double-major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). I am currently visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
+I read a double-major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). 
 
 I am continuously exploring my direction in Natural Language Processing. Generally, I wish to apply language technology to boost human productivity, to develop and improve language technologies in boosting productivity, and to solve linguistic theory and philosophy questions with artificial intelligence technology.
 
