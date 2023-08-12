@@ -17,7 +17,7 @@ I am continuously exploring my direction in Natural Language Processing. General
 ## My Wakatime Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,7 +92,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2023 18:38:00 UTC
+ Last Updated on 12/08/2023 18:37:42 UTC
 <!--END_SECTION:waka-->
 
 
