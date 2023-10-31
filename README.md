@@ -26,8 +26,6 @@ I am looking for a PhD position or an RA position before PhD in 24fall.
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -91,7 +89,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2023 18:38:37 UTC
+ Last Updated on 31/10/2023 18:38:18 UTC
 <!--END_SECTION:waka-->
 
 
