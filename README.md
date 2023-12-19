@@ -20,7 +20,7 @@ I am looking for a PhD position or an RA position before PhD in 24fall.
 ## My Wakatime Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,7 +94,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2023 18:40:18 UTC
+ Last Updated on 19/12/2023 18:37:37 UTC
 <!--END_SECTION:waka-->
 
 
