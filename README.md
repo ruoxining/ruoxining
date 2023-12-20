@@ -1,6 +1,6 @@
 # Hi there
 
-I pursue a double-major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). Previously, I have been visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
+I pursue a double major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). Previously, I have been visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
 
 Previously, I was an English-language-guaranteed student from [Jinan Foreign Language School](https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School) (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double-major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
