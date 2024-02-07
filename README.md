@@ -22,19 +22,19 @@ I am looking for a PhD position or an RA position before PhD in 24fall.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2022 - To: 05 February 2024
+From: 02 May 2022 - To: 06 February 2024
 
-Total Time: 1,241 hrs 4 mins
+Total Time: 1,249 hrs 37 mins
 
-Python           565 hrs 45 mins >>>>>>>>>>>--------------   45.15 %
-C                193 hrs 48 mins >>>>---------------------   15.47 %
-C++              121 hrs 4 mins  >>-----------------------   09.66 %
-Markdown         90 hrs 42 mins  >>-----------------------   07.24 %
-Text             77 hrs 58 mins  >>-----------------------   06.22 %
-JSON             60 hrs 5 mins   >------------------------   04.80 %
-Assembly         58 hrs 25 mins  >------------------------   04.66 %
-V                26 hrs 29 mins  >------------------------   02.11 %
-YAML             15 hrs 8 mins   -------------------------   01.21 %
+Python           571 hrs 24 mins >>>>>>>>>>>--------------   45.29 %
+C                193 hrs 48 mins >>>>---------------------   15.36 %
+C++              121 hrs 4 mins  >>-----------------------   09.60 %
+Markdown         90 hrs 42 mins  >>-----------------------   07.19 %
+Text             78 hrs          >>-----------------------   06.18 %
+JSON             62 hrs 56 mins  >------------------------   04.99 %
+Assembly         58 hrs 25 mins  >------------------------   04.63 %
+V                26 hrs 29 mins  >------------------------   02.10 %
+YAML             15 hrs 8 mins   -------------------------   01.20 %
 Other            11 hrs 57 mins  -------------------------   00.95 %
 ```
 
