@@ -18,7 +18,7 @@ jobs:
           ## below is for anmol098 style
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
-          # SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "False"
           ## below is for athul style
           # SHOW_TITLE: true # optional
           # BLOCKS: -> # optional
