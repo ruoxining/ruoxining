@@ -1,12 +1,8 @@
 # Hi there
 
-I pursue a double major (English Linguistics & Computer Science) in [Zhejiang University](https://www.zju.edu.cn/english/) and expect to gain my B.A. in 2024. June. I also work as an intern at [WestlakeNLP](https://westlakenlp.netlify.app/) with Prof. [Yue Zhang](https://frcchang.github.io/) (2021. June - now). Previously, I have been visiting [StatNLP](https://statnlp-research.github.io/) with Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei) (2023.June - 2023. Oct).
+I am an incoming PhD candidate at <a href='https://uwaterloo.ca/'>, supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs). I am currently pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. 
 
-Previously, I was an English-language-guaranteed student from [Jinan Foreign Language School](https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School) (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
-
-I am continuously exploring my direction in Natural Language Processing. Generally, I wish to develop and improve language technologies applied in real-world settings to cater human needs and to boost human productivity, and to solve linguistic theory, cognition-reality alignment and other language philosophical questions with big data and artificial intelligence technologies.
-
-I am looking for a PhD position or an RA position before PhD in 24fall.
+My undergraduate supervisor in School of International Studies is <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
 <br/>  
 
 
