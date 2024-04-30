@@ -3,7 +3,7 @@
 
 I am an incoming PhD candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by Prof. <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. I am currently pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. 
 
-My undergraduate supervisor in School of International Studies is Prof. <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
+My undergraduate supervisor in School of International Studies is Prof. <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with Prof. <a href='https://frcchang.github.io/'>Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with Prof. <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Wei Lu</a> (2023.June - 2023. Oct).
 <br/>  
 
 
