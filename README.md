@@ -19,17 +19,17 @@ My undergraduate supervisor in School of International Studies is Prof. <a href=
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2022 - To: 31 August 2024
+From: 02 May 2022 - To: 01 September 2024
 
-Total Time: 1,776 hrs 36 mins
+Total Time: 1,777 hrs 17 mins
 
-Python           758 hrs 28 mins >>>>>>>>>>---------------   41.79 %
+Python           759 hrs 9 mins  >>>>>>>>>>---------------   41.81 %
 Markdown         210 hrs 2 mins  >>>----------------------   11.57 %
 C                200 hrs 45 mins >>>----------------------   11.06 %
-C++              173 hrs 27 mins >>-----------------------   09.56 %
+C++              173 hrs 27 mins >>-----------------------   09.55 %
 JSON             93 hrs 5 mins   >------------------------   05.13 %
 Text             84 hrs 48 mins  >------------------------   04.67 %
-V                67 hrs 37 mins  >------------------------   03.73 %
+V                67 hrs 37 mins  >------------------------   03.72 %
 Assembly         58 hrs 25 mins  >------------------------   03.22 %
 Other            38 hrs 33 mins  >------------------------   02.12 %
 ```
